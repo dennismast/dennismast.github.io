@@ -1,0 +1,167 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dennishilton.com/supremecollection" resolutions="1x" timestamp="1597529832862">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="225071200" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="libertyfloral6panel1.jpg" crc="250841147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="libertyfloralbeltedpant1.jpg" crc="466898712" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="naomicrewneck.jpg" crc="4285586885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="automobililamborghinitee1.jpg" crc="4256330430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thenorthfacertgbackpack1.jpg" crc="4133352583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ballparkponcho.jpg" crc="3892178404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hellermugs1.jpg" crc="301582142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nalgene32ozbottle1.jpg" crc="4046737887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bandanaboxlogohoodedsweatshirt.jpg" crc="4041244032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hondafoxracingworkshirt.jpg" crc="4147562198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="supremeislovesweater.jpg" crc="292067341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nikesbdunklow.jpg" crc="4151486332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thenorthfacestatueoflibertywaterproofbackpack.jpg" crc="4185568014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="supremevol2book.jpg" crc="4066434883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stanley20ozvacuuminsulatedbottle.jpg" crc="3765409488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thenorthfacearclogodenalifleecejacket.jpg" crc="3973693105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stoneislandhoodedsweatshirt.jpg" crc="390022437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="greetingstee.jpg" crc="4175061395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siggcydwaterbottle.jpg" crc="4024513066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="directorschair.jpg" crc="362985490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotwheels.jpg" crc="4256714042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="supersoaker50waterblaster.jpg" crc="3953471909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bialettimokaexpress.jpg" crc="462217106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cressisnorkelset.jpg" crc="10966755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoulderbagss19.jpg" crc="4255706522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="championhoodedvarsityjacket.jpg" crc="505247659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boxlogocrewneck.jpg" crc="516390020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cdghoodedsweatshirt.jpg" crc="4194621665" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="madonnatee.jpg" crc="360813767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mikekelleyempirestatebuildingtee.jpg" crc="4292863679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoulderbagfw18.jpg" crc="299427430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polartectote.jpg" crc="449934092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tnfexpeditionbackpack.jpg" crc="4106772337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="diamondplatetoolbox.jpg" crc="219153963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="awsdigitalscale.jpg" crc="3793955806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tvtee.jpg" crc="287232690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="meshboxlogonewera.jpg" crc="3976286439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="militarycampcap.jpg" crc="3799600677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="suedecampcap.jpg" crc="4084667683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lacostetwill6panel1.jpg" crc="84954552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vansskullpilesk8hi.jpg" crc="35683843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nikeairstreakspectrumplus.jpg" crc="3877854549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoulderbagss18.jpg" crc="456048404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logozippo.jpg" crc="145138414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siggtravellerwaterbottle.jpg" crc="37932315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illusioncoinbank.jpg" crc="4234661097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dontask4shitstamp.jpg" crc="4283727119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rawlingscatchersmask.jpg" crc="4114914081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soghandaxe.jpg" crc="362565065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obrienlifevest.jpg" crc="389850661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3986318482" seo="true" mt="1597529823235" redirect="true"/>
+</manifest>
